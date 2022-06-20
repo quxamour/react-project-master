@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "title": "js ev 9",
+      "description": "ewwewewe",
+      "price": 1200,
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "id": 6
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": 1900,
+      "image": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": 2000,
+      "image": "",
+      "id": 8
+    },
+    {
+      "title": "qwq",
+      "description": "wqwq",
+      "price": 2000,
+      "image": "qwqw",
+      "id": 9
+    },
+    {
+      "title": "wqwq",
+      "description": "wqqww",
+      "price": 1000,
+      "image": "wqwqwq",
+      "id": 10
+    },
+    {
+      "title": "oioioi",
+      "description": "oio",
+      "price": 1111,
+      "image": "ioik",
+      "id": 11
+    },
+    {
+      "title": "1331",
+      "description": "1331",
+      "price": 22,
+      "image": "131313113",
+      "id": 12
+    },
+    {
+      "title": "3223",
+      "description": "232323",
+      "price": 322329,
+      "image": "323223",
+      "id": 13
+    }
+  ]
+}
